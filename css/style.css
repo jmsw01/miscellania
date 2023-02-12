@@ -6,7 +6,8 @@ body{
   font-size: 16px;
   font-weight: normal;
 
-  
+  // consise method:
+  font: normal 16px Arial, Helvetica, sans-serif;
 }
 h1{
   color:green;
